@@ -1,2 +1,2 @@
 # WeatherForecast
-simple multithreaded client server application
+Simple multithreaded client server application, which shows you a weather in the city you write. 
